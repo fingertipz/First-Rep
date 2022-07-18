@@ -16,4 +16,4 @@ Also the whether or not the powerball/megaball was a match as well.
 
 If you happen to see this let me know if I could have done something better or any improvements.
 This is the first project I have created on my own.  In my first repository ever on github.  And the first code I have shared anywhere.
-Any tips, resources anyone may offer is appreciated.
+Any tips or resources anyone may offer is appreciated.
