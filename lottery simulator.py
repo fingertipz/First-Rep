@@ -1,7 +1,5 @@
 import random
 import time
-from os import system
-from time import sleep
 pb1picks = [14,19,25,39,68]
 pb2picks = [3,43,47,57,67]
 pb3picks = [1,3,53,54,61]
